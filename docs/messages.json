@@ -1,0 +1,69 @@
+{
+    "socialLinks": [
+      { "href": "https://www.linkedin.com/company/eviden", "iconName": "linkedIn" },
+      { "href": "https://twitter.com/EvidenLive", "iconName": "twitter" },
+      { "href": "https://www.instagram.com/evidenlive", "iconName": "instagram" },
+      { "href": "https://www.youtube.com/@EvidenLive", "iconName": "youtube" }
+    ],
+    "legalInformationLink": "https://eviden.com/terms-and-conditions/",
+    "footerFootnote": "Eviden is a next-gen technology leader in data-driven, trusted and sustainable digital transformation.",
+    "pageHelp": {
+      "paragraphs": [
+        {
+          "headline": "Introduction",
+          "values": [
+            "Technology is moving fast and new technologies and innovations appear continuously.",
+            "It's essential for a development and technology company such as Eviden to constantly improve and keep track with the latest useful innovations. It is important to openly look for innovations and new technologies and to question established technologies and methods every now and then.",
+            "But, it is also important to wisely choose which technologies to use in our daily work and in the different projects we are carrying out. As we all know: There is no silver bullet."
+          ]
+        },
+        {
+          "headline": "What is the Eviden Technology Radar",
+          "values": [
+            "The Tech Radar is an overview of different technologies that we consider \"new or mentionable\". The radar therefore doesn't provide an overview of all established technologies - but it focuses on items that have recently gained in importance or changed."
+          ]
+        }
+      ],
+      "quadrants": [
+        {
+          "name": "Digital Business Consulting",
+          "description": "Blah blah consulting."
+        },
+        {
+          "name": "Applied AI",
+          "description": "Blah blah AI."
+        },
+        {
+          "name": "Cloud Evolution",
+          "description": "Blah blah cloud."
+        },
+        {
+          "name": "Power of Big Data",
+          "description": "Blah blah big data."
+        }
+      ],
+      "rings": [
+        {
+          "name": "Adopt",
+          "description": "We can clearly recommend this technology. We have used it for longer period of time in many teams and it has proven to be stable and useful."
+        },
+        {
+          "name": "Trial",
+          "description": "We have used it with success and recommend to have a closer look at the technology in this ring. The goal of items here is to look at them more closely, with the goal to bring them to the adopt level."
+        },
+        {
+          "name": "Assess",
+          "description": "We have tried it out and we find it promising. We recommend having a look at these items when you face a specific need for the technology in your project."
+        },
+        {
+          "name": "Hold",
+          "description": "This category is a bit special. Unlike the others, this is a wait and see if the technology is further developed or fizzles out."
+        }
+      ],
+      "sourcecodeLink": {
+        "href": "https://github.com/atos-greg-brondo/technology_radar",
+        "name": "Eviden Tech Radar on Github",
+        "description": "Contributions and source code of the Eviden Tech Radar are on github:"
+      }
+    }
+}
